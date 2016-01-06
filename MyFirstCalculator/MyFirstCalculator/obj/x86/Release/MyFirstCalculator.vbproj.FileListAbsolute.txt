@@ -1,0 +1,34 @@
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Release\MyFirstCalculator.exe
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Release\MyFirstCalculator.pdb
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Release\MyFirstCalculator.xml
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Release\Cal.dll
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Release\Dalboth.dll
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Release\Cal.pdb
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Release\Cal.xml
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Release\Dalboth.pdb
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Release\Dalboth.xml
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.Calculator.resources
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.Resources.resources
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.vbproj.GenerateResource.Cache
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.exe
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.xml
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.pdb
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.Resources.resources
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.vbproj.GenerateResource.Cache
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Release\MyFirstCalculator.exe
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Release\MyFirstCalculator.pdb
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Release\MyFirstCalculator.xml
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Release\Cal.dll
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Release\Dalboth.dll
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Release\Cal.pdb
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Release\Cal.xml
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Release\Dalboth.pdb
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Release\Dalboth.xml
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.Calculator.resources
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.Resources.resources
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.vbproj.GenerateResource.Cache
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.exe
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.xml
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Release\MyFirstCalculator.pdb

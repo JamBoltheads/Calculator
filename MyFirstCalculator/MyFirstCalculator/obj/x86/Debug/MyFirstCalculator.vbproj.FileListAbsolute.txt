@@ -1,0 +1,64 @@
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Debug\MyFirstCalculator.pdb
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Debug\MyFirstCalculator.xml
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.Resources.resources
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.vbproj.GenerateResource.Cache
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.exe
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.xml
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.pdb
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Debug\Cal.dll
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Debug\Dalboth.dll
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Debug\Cal.pdb
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Debug\Cal.xml
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Debug\Dalboth.pdb
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\bin\Debug\Dalboth.xml
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\James\AppData\Local\Temporary Projects\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.Calculator.resources
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.exe
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.xml
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.pdb
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.pdb
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.xml
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\bin\Debug\Cal.dll
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\bin\Debug\Dalboth.dll
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\bin\Debug\Cal.pdb
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\bin\Debug\Cal.xml
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\bin\Debug\Dalboth.pdb
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\bin\Debug\Dalboth.xml
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.Calculator.resources
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.Resources.resources
+C:\Users\James\Documents\PRograms\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.vbproj.GenerateResource.Cache
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.exe
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.xml
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.pdb
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.pdb
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.xml
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Cal.dll
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Dalboth.dll
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Cal.pdb
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Cal.xml
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Dalboth.pdb
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Dalboth.xml
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.Calculator.resources
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.Resources.resources
+C:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.vbproj.GenerateResource.Cache
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.exe
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.xml
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.pdb
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.pdb
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.xml
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Cal.dll
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Dalboth.dll
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Cal.pdb
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Cal.xml
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Dalboth.pdb
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\bin\Debug\Dalboth.xml
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.vbprojResolveAssemblyReference.cache
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.Calculator.resources
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.Resources.resources
+E:\Users\James\Documents\CalculatorCOMP\MyFirstCalculator\MyFirstCalculator\obj\x86\Debug\MyFirstCalculator.vbproj.GenerateResource.Cache
